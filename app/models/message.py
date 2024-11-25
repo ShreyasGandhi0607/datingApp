@@ -1,0 +1,1 @@
+# Message model (message-related fields)
