@@ -1,0 +1,1 @@
+# Configration of the application
